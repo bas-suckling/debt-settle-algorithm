@@ -1,0 +1,24 @@
+{
+  "name": "debt-settle-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "settleup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bas-suckling/debt-settle-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bas-suckling/debt-settle-algorithm/issues"
+  },
+  "homepage": "https://github.com/bas-suckling/debt-settle-algorithm#readme",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "node": "^13.3.0"
+  }
+}
